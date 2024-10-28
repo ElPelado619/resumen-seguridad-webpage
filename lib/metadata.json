@@ -1,0 +1,624 @@
+{
+  "vaultName": "Seguridad Informática",
+  "lastExport": 1730148446278,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Hubs de Unidades/U1/1.1. Elementos y conceptos de la seguridad de la información. Dimensiones..md",
+    "Hubs de Unidades/U1/1.2. Activos de Información, Amenazas y Vulnerabilidades..md",
+    "Hubs de Unidades/U1/1.3. Sistema de gestión de la seguridad de la información. Componentes..md",
+    "Hubs de Unidades/U1/1.4. Función de dispersión criptográfica. Funcionamiento y aplicaciones. Algoritmos MD5 y SHA.md",
+    "Hubs de Unidades/U1/1.5. Introducción a la Criptografía. Esquemas simétricos y asimétricos. Algoritmos de Cifrado DES y Diffie - Hellman..md",
+    "Hubs de Unidades/U1/UNIDAD 1 - INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA.md",
+    "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..md",
+    "Hubs de Unidades/U2/2.2. Modelado de Amenazas..md",
+    "Hubs de Unidades/U2/2.3. Software malicioso e Ingeniería social..md",
+    "Hubs de Unidades/U2/2.4. Vulnerabilidades de bajo nivel y de red..md",
+    "Hubs de Unidades/U2/2.5. Ataques a aplicaciones web. (Proyecto OWASP)..md",
+    "Hubs de Unidades/U2/2.6. Introducción al Test de Penetración..md",
+    "Hubs de Unidades/U2/UNIDAD 2 - AMENAZAS y VULNERABILIDADES.md",
+    "Hubs de Unidades/U3/3.1. Técnicas de Identificación y Autenticación..md",
+    "Hubs de Unidades/U3/3.2. Contraseñas, Certificados electrónicos y Biometria..md",
+    "Hubs de Unidades/U3/3.3. Protocolos de Autenticación. DSA y RSA. Firma Electrónica..md",
+    "Hubs de Unidades/U3/3.4. Introducción a la Infraestructura de Clave Pública..md",
+    "Hubs de Unidades/U3/3.5. Modelos de Autorización. Control de Acceso.md",
+    "Hubs de Unidades/U3/UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN.md",
+    "Hubs de Unidades/U4/4.1. Estructura de una Política de Seguridad de la Información (Modelo ISO 27000)..md",
+    "Hubs de Unidades/U4/4.2. Objetivos de Control. Categorías de Controles..md",
+    "Hubs de Unidades/U4/4.3. Aspectos Organizaciones SI..md",
+    "Hubs de Unidades/U4/4.4. Seguridad Física y del Entorno..md",
+    "Hubs de Unidades/U4/4.5. Autenticación, Autorización y Control de Accesos..md",
+    "Hubs de Unidades/U4/4.6. Seguridad de las Operaciones y Comunicaciones..md",
+    "Hubs de Unidades/U4/UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN.md",
+    "Hubs de Unidades/U5/5.1. Introducción a la disciplina forense Informática. Proceso de Gestión de incidentes.md",
+    "Hubs de Unidades/U5/5.2. Evidencia digital. Identificación. Metodología de Recolección y Manipulación..md",
+    "Hubs de Unidades/U5/5.3. Análisis de la evidencia digital e investigación. Análisis en Línea y fuera de Línea.md",
+    "Hubs de Unidades/U5/5.4. Presentación e informe de resultados en diferentes ámbitos..md",
+    "Hubs de Unidades/U5/UNIDAD 5 - ANÁLISIS FORENSE.md",
+    "Hubs de Unidades/U6/6.1. Definición de Auditoria Informática. Tipos de Auditoría y áreas de aplicación..md",
+    "Hubs de Unidades/U6/6.2. Proceso de Auditoría. Planeamiento – Ejecución – Informe – Seguimiento. Alcance de la Auditoría..md",
+    "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..md",
+    "Hubs de Unidades/U6/6.4. Controles Auditoría Informática - Definición, funciones y tipos de controles. Programa de Trabajo..md",
+    "Hubs de Unidades/U6/6.5. Elaboración y comunicación de Observaciones y Recomendaciones. El Informe de Auditoría..md",
+    "Hubs de Unidades/U6/UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA.md",
+    "Images/Pasted image 20241026223347.png",
+    "Images/Pasted image 20241027180223.png",
+    "Images/Pasted image 20241027181033.png",
+    "Images/Pasted image 20241027182328.png",
+    "Images/Pasted image 20241027193203.png",
+    "Images/Pasted image 20241027193234.png",
+    "Images/Pasted image 20241028163024.png",
+    "Images/Pasted image 20241028165637.png",
+    "Seguridad Informática - EMPEZAR ACÁ!!!.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Hubs de Unidades/U1/1.1. Elementos y conceptos de la seguridad de la información. Dimensiones..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 3495,
+      "exportedPath": "Hubs de Unidades/U1/1.1. Elementos y conceptos de la seguridad de la información. Dimensiones..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U1/1.2. Activos de Información, Amenazas y Vulnerabilidades..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 2916,
+      "exportedPath": "Hubs de Unidades/U1/1.2. Activos de Información, Amenazas y Vulnerabilidades..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U1/1.3. Sistema de gestión de la seguridad de la información. Componentes..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 5315,
+      "exportedPath": "Hubs de Unidades/U1/1.3. Sistema de gestión de la seguridad de la información. Componentes..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U1/1.4. Función de dispersión criptográfica. Funcionamiento y aplicaciones. Algoritmos MD5 y SHA.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U1/1.4. Función de dispersión criptográfica. Funcionamiento y aplicaciones. Algoritmos MD5 y SHA.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U1/1.5. Introducción a la Criptografía. Esquemas simétricos y asimétricos. Algoritmos de Cifrado DES y Diffie - Hellman..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U1/1.5. Introducción a la Criptografía. Esquemas simétricos y asimétricos. Algoritmos de Cifrado DES y Diffie - Hellman..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U1/UNIDAD 1 - INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 505,
+      "exportedPath": "Hubs de Unidades/U1/UNIDAD 1 - INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 3021,
+      "exportedPath": "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U2/2.2. Modelado de Amenazas..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U2/2.2. Modelado de Amenazas..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U2/2.3. Software malicioso e Ingeniería social..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 9550,
+      "exportedPath": "Hubs de Unidades/U2/2.3. Software malicioso e Ingeniería social..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U2/2.4. Vulnerabilidades de bajo nivel y de red..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U2/2.4. Vulnerabilidades de bajo nivel y de red..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U2/2.5. Ataques a aplicaciones web. (Proyecto OWASP)..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U2/2.5. Ataques a aplicaciones web. (Proyecto OWASP)..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U2/2.6. Introducción al Test de Penetración..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U2/2.6. Introducción al Test de Penetración..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U2/UNIDAD 2 - AMENAZAS y VULNERABILIDADES.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 397,
+      "exportedPath": "Hubs de Unidades/U2/UNIDAD 2 - AMENAZAS y VULNERABILIDADES.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U3/3.1. Técnicas de Identificación y Autenticación..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U3/3.1. Técnicas de Identificación y Autenticación..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U3/3.2. Contraseñas, Certificados electrónicos y Biometria..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U3/3.2. Contraseñas, Certificados electrónicos y Biometria..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U3/3.3. Protocolos de Autenticación. DSA y RSA. Firma Electrónica..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U3/3.3. Protocolos de Autenticación. DSA y RSA. Firma Electrónica..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U3/3.4. Introducción a la Infraestructura de Clave Pública..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U3/3.4. Introducción a la Infraestructura de Clave Pública..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U3/3.5. Modelos de Autorización. Control de Acceso.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U3/3.5. Modelos de Autorización. Control de Acceso.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U3/UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 349,
+      "exportedPath": "Hubs de Unidades/U3/UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U4/4.1. Estructura de una Política de Seguridad de la Información (Modelo ISO 27000)..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 6441,
+      "exportedPath": "Hubs de Unidades/U4/4.1. Estructura de una Política de Seguridad de la Información (Modelo ISO 27000)..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U4/4.2. Objetivos de Control. Categorías de Controles..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U4/4.2. Objetivos de Control. Categorías de Controles..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U4/4.3. Aspectos Organizaciones SI..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U4/4.3. Aspectos Organizaciones SI..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U4/4.4. Seguridad Física y del Entorno..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U4/4.4. Seguridad Física y del Entorno..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U4/4.5. Autenticación, Autorización y Control de Accesos..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U4/4.5. Autenticación, Autorización y Control de Accesos..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U4/4.6. Seguridad de las Operaciones y Comunicaciones..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U4/4.6. Seguridad de las Operaciones y Comunicaciones..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U4/UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 403,
+      "exportedPath": "Hubs de Unidades/U4/UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U5/5.1. Introducción a la disciplina forense Informática. Proceso de Gestión de incidentes.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U5/5.1. Introducción a la disciplina forense Informática. Proceso de Gestión de incidentes.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U5/5.2. Evidencia digital. Identificación. Metodología de Recolección y Manipulación..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U5/5.2. Evidencia digital. Identificación. Metodología de Recolección y Manipulación..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U5/5.3. Análisis de la evidencia digital e investigación. Análisis en Línea y fuera de Línea.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U5/5.3. Análisis de la evidencia digital e investigación. Análisis en Línea y fuera de Línea.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U5/5.4. Presentación e informe de resultados en diferentes ámbitos..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U5/5.4. Presentación e informe de resultados en diferentes ámbitos..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U5/UNIDAD 5 - ANÁLISIS FORENSE.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 393,
+      "exportedPath": "Hubs de Unidades/U5/UNIDAD 5 - ANÁLISIS FORENSE.html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U6/6.1. Definición de Auditoria Informática. Tipos de Auditoría y áreas de aplicación..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U6/6.1. Definición de Auditoria Informática. Tipos de Auditoría y áreas de aplicación..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U6/6.2. Proceso de Auditoría. Planeamiento – Ejecución – Informe – Seguimiento. Alcance de la Auditoría..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U6/6.2. Proceso de Auditoría. Planeamiento – Ejecución – Informe – Seguimiento. Alcance de la Auditoría..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U6/6.4. Controles Auditoría Informática - Definición, funciones y tipos de controles. Programa de Trabajo..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U6/6.4. Controles Auditoría Informática - Definición, funciones y tipos de controles. Programa de Trabajo..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U6/6.5. Elaboración y comunicación de Observaciones y Recomendaciones. El Informe de Auditoría..md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 0,
+      "exportedPath": "Hubs de Unidades/U6/6.5. Elaboración y comunicación de Observaciones y Recomendaciones. El Informe de Auditoría..html",
+      "dependencies": []
+    },
+    "Hubs de Unidades/U6/UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 524,
+      "exportedPath": "Hubs de Unidades/U6/UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA.html",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241026223347.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 24166,
+      "exportedPath": "Images/Pasted image 20241026223347.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241027180223.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 79439,
+      "exportedPath": "Images/Pasted image 20241027180223.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241027181033.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 69385,
+      "exportedPath": "Images/Pasted image 20241027181033.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241027182328.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 36441,
+      "exportedPath": "Images/Pasted image 20241027182328.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241027193203.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 23047,
+      "exportedPath": "Images/Pasted image 20241027193203.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241027193234.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 27591,
+      "exportedPath": "Images/Pasted image 20241027193234.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241028163024.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 114853,
+      "exportedPath": "Images/Pasted image 20241028163024.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241028165637.png": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 60270,
+      "exportedPath": "Images/Pasted image 20241028165637.png",
+      "dependencies": []
+    },
+    "Seguridad Informática - EMPEZAR ACÁ!!!.md": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 661,
+      "exportedPath": "Seguridad Informática - EMPEZAR ACÁ!!!.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1730148446278,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
