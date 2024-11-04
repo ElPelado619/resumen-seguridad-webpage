@@ -1,11 +1,12 @@
 {
   "vaultName": "Seguridad Informática",
-  "lastExport": 1730148446278,
+  "lastExport": 1730762403942,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Hubs de Unidades/U0/UNIDAD 0 - Gestión de SI y TI.md",
     "Hubs de Unidades/U1/1.1. Elementos y conceptos de la seguridad de la información. Dimensiones..md",
     "Hubs de Unidades/U1/1.2. Activos de Información, Amenazas y Vulnerabilidades..md",
     "Hubs de Unidades/U1/1.3. Sistema de gestión de la seguridad de la información. Componentes..md",
@@ -51,7 +52,27 @@
     "Images/Pasted image 20241027193234.png",
     "Images/Pasted image 20241028163024.png",
     "Images/Pasted image 20241028165637.png",
+    "Images/Pasted image 20241104193843.png",
+    "Images/Pasted image 20241104193916.png",
+    "Images/Pasted image 20241104194236.png",
+    "Images/Pasted image 20241104194310.png",
+    "Images/Pasted image 20241104195037.png",
+    "OWASP Top 10.md",
     "Seguridad Informática - EMPEZAR ACÁ!!!.md",
+    "lib/media/pasted-image-20241104193843.png",
+    "lib/media/pasted-image-20241104193916.png",
+    "lib/media/pasted-image-20241104194236.png",
+    "lib/media/pasted-image-20241104194310.png",
+    "lib/media/pasted-image-20241104195037.png",
+    "lib/media/pasted-image-20241026223347.png",
+    "lib/media/pasted-image-20241027193203.png",
+    "lib/media/pasted-image-20241027193234.png",
+    "lib/media/pasted-image-20241028163024.png",
+    "lib/media/pasted-image-20241027180223.png",
+    "lib/media/pasted-image-20241027181033.png",
+    "lib/media/pasted-image-20241027182328.png",
+    "lib/media/pasted-image-20241028165637.png",
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -66,30 +87,45 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/MathJax_Zero.woff",
-    "lib/fonts/MathJax_Main-Regular.woff",
-    "lib/fonts/MathJax_Main-Bold.woff",
-    "lib/fonts/MathJax_Math-Italic.woff",
-    "lib/fonts/MathJax_Main-Italic.woff",
-    "lib/fonts/MathJax_Math-BoldItalic.woff",
-    "lib/fonts/MathJax_Size1-Regular.woff",
-    "lib/fonts/MathJax_Size2-Regular.woff",
-    "lib/fonts/MathJax_Size3-Regular.woff",
-    "lib/fonts/MathJax_Size4-Regular.woff",
-    "lib/fonts/MathJax_AMS-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Bold.woff",
-    "lib/fonts/MathJax_Fraktur-Regular.woff",
-    "lib/fonts/MathJax_Fraktur-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Regular.woff",
-    "lib/fonts/MathJax_SansSerif-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Italic.woff",
-    "lib/fonts/MathJax_Script-Regular.woff",
-    "lib/fonts/MathJax_Typewriter-Regular.woff",
-    "lib/fonts/MathJax_Vector-Regular.woff",
-    "lib/fonts/MathJax_Vector-Bold.woff"
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
   ],
   "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -104,520 +140,762 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/MathJax_Zero.woff",
-    "lib/fonts/MathJax_Main-Regular.woff",
-    "lib/fonts/MathJax_Main-Bold.woff",
-    "lib/fonts/MathJax_Math-Italic.woff",
-    "lib/fonts/MathJax_Main-Italic.woff",
-    "lib/fonts/MathJax_Math-BoldItalic.woff",
-    "lib/fonts/MathJax_Size1-Regular.woff",
-    "lib/fonts/MathJax_Size2-Regular.woff",
-    "lib/fonts/MathJax_Size3-Regular.woff",
-    "lib/fonts/MathJax_Size4-Regular.woff",
-    "lib/fonts/MathJax_AMS-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Bold.woff",
-    "lib/fonts/MathJax_Fraktur-Regular.woff",
-    "lib/fonts/MathJax_Fraktur-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Regular.woff",
-    "lib/fonts/MathJax_SansSerif-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Italic.woff",
-    "lib/fonts/MathJax_Script-Regular.woff",
-    "lib/fonts/MathJax_Typewriter-Regular.woff",
-    "lib/fonts/MathJax_Vector-Regular.woff",
-    "lib/fonts/MathJax_Vector-Bold.woff"
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
   ],
   "fileInfo": {
+    "Hubs de Unidades/U0/UNIDAD 0 - Gestión de SI y TI.md": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 3043,
+      "exportedPath": "hubs-de-unidades/u0/unidad-0-gestión-de-si-y-ti.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241104193843.png",
+        "lib/media/pasted-image-20241104193916.png",
+        "lib/media/pasted-image-20241104194236.png",
+        "lib/media/pasted-image-20241104194310.png",
+        "lib/media/pasted-image-20241104195037.png"
+      ]
+    },
     "Hubs de Unidades/U1/1.1. Elementos y conceptos de la seguridad de la información. Dimensiones..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 3495,
-      "exportedPath": "Hubs de Unidades/U1/1.1. Elementos y conceptos de la seguridad de la información. Dimensiones..html",
+      "exportedPath": "hubs-de-unidades/u1/1.1.-elementos-y-conceptos-de-la-seguridad-de-la-información.-dimensiones..html",
       "dependencies": []
     },
     "Hubs de Unidades/U1/1.2. Activos de Información, Amenazas y Vulnerabilidades..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 2916,
-      "exportedPath": "Hubs de Unidades/U1/1.2. Activos de Información, Amenazas y Vulnerabilidades..html",
-      "dependencies": []
+      "exportedPath": "hubs-de-unidades/u1/1.2.-activos-de-información,-amenazas-y-vulnerabilidades..html",
+      "dependencies": [
+        "lib/media/pasted-image-20241026223347.png"
+      ]
     },
     "Hubs de Unidades/U1/1.3. Sistema de gestión de la seguridad de la información. Componentes..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 5315,
-      "exportedPath": "Hubs de Unidades/U1/1.3. Sistema de gestión de la seguridad de la información. Componentes..html",
-      "dependencies": []
+      "exportedPath": "hubs-de-unidades/u1/1.3.-sistema-de-gestión-de-la-seguridad-de-la-información.-componentes..html",
+      "dependencies": [
+        "lib/media/pasted-image-20241027193203.png",
+        "lib/media/pasted-image-20241027193234.png",
+        "lib/media/pasted-image-20241028163024.png"
+      ]
     },
     "Hubs de Unidades/U1/1.4. Función de dispersión criptográfica. Funcionamiento y aplicaciones. Algoritmos MD5 y SHA.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U1/1.4. Función de dispersión criptográfica. Funcionamiento y aplicaciones. Algoritmos MD5 y SHA.html",
+      "exportedPath": "hubs-de-unidades/u1/1.4.-función-de-dispersión-criptográfica.-funcionamiento-y-aplicaciones.-algoritmos-md5-y-sha.html",
       "dependencies": []
     },
     "Hubs de Unidades/U1/1.5. Introducción a la Criptografía. Esquemas simétricos y asimétricos. Algoritmos de Cifrado DES y Diffie - Hellman..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U1/1.5. Introducción a la Criptografía. Esquemas simétricos y asimétricos. Algoritmos de Cifrado DES y Diffie - Hellman..html",
+      "exportedPath": "hubs-de-unidades/u1/1.5.-introducción-a-la-criptografía.-esquemas-simétricos-y-asimétricos.-algoritmos-de-cifrado-des-y-diffie-hellman..html",
       "dependencies": []
     },
     "Hubs de Unidades/U1/UNIDAD 1 - INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 505,
-      "exportedPath": "Hubs de Unidades/U1/UNIDAD 1 - INTRODUCCIÓN A LA SEGURIDAD INFORMÁTICA.html",
+      "exportedPath": "hubs-de-unidades/u1/unidad-1-introducción-a-la-seguridad-informática.html",
       "dependencies": []
     },
     "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 3021,
-      "exportedPath": "Hubs de Unidades/U2/2.1. Gestión de vulnerabilidades, etiquetado e identificación. Evaluación de vulnerabilidades..html",
+      "exportedPath": "hubs-de-unidades/u2/2.1.-gestión-de-vulnerabilidades,-etiquetado-e-identificación.-evaluación-de-vulnerabilidades..html",
       "dependencies": []
     },
     "Hubs de Unidades/U2/2.2. Modelado de Amenazas..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U2/2.2. Modelado de Amenazas..html",
+      "exportedPath": "hubs-de-unidades/u2/2.2.-modelado-de-amenazas..html",
       "dependencies": []
     },
     "Hubs de Unidades/U2/2.3. Software malicioso e Ingeniería social..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 9550,
-      "exportedPath": "Hubs de Unidades/U2/2.3. Software malicioso e Ingeniería social..html",
-      "dependencies": []
+      "exportedPath": "hubs-de-unidades/u2/2.3.-software-malicioso-e-ingeniería-social..html",
+      "dependencies": [
+        "lib/media/pasted-image-20241027180223.png",
+        "lib/media/pasted-image-20241027181033.png",
+        "lib/media/pasted-image-20241027182328.png"
+      ]
     },
     "Hubs de Unidades/U2/2.4. Vulnerabilidades de bajo nivel y de red..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U2/2.4. Vulnerabilidades de bajo nivel y de red..html",
+      "exportedPath": "hubs-de-unidades/u2/2.4.-vulnerabilidades-de-bajo-nivel-y-de-red..html",
       "dependencies": []
     },
     "Hubs de Unidades/U2/2.5. Ataques a aplicaciones web. (Proyecto OWASP)..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U2/2.5. Ataques a aplicaciones web. (Proyecto OWASP)..html",
+      "exportedPath": "hubs-de-unidades/u2/2.5.-ataques-a-aplicaciones-web.-(proyecto-owasp)..html",
       "dependencies": []
     },
     "Hubs de Unidades/U2/2.6. Introducción al Test de Penetración..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U2/2.6. Introducción al Test de Penetración..html",
+      "exportedPath": "hubs-de-unidades/u2/2.6.-introducción-al-test-de-penetración..html",
       "dependencies": []
     },
     "Hubs de Unidades/U2/UNIDAD 2 - AMENAZAS y VULNERABILIDADES.md": {
-      "modifiedTime": 1730148446278,
-      "sourceSize": 397,
-      "exportedPath": "Hubs de Unidades/U2/UNIDAD 2 - AMENAZAS y VULNERABILIDADES.html",
+      "modifiedTime": 1730762403942,
+      "sourceSize": 420,
+      "exportedPath": "hubs-de-unidades/u2/unidad-2-amenazas-y-vulnerabilidades.html",
       "dependencies": []
     },
     "Hubs de Unidades/U3/3.1. Técnicas de Identificación y Autenticación..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U3/3.1. Técnicas de Identificación y Autenticación..html",
+      "exportedPath": "hubs-de-unidades/u3/3.1.-técnicas-de-identificación-y-autenticación..html",
       "dependencies": []
     },
     "Hubs de Unidades/U3/3.2. Contraseñas, Certificados electrónicos y Biometria..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U3/3.2. Contraseñas, Certificados electrónicos y Biometria..html",
+      "exportedPath": "hubs-de-unidades/u3/3.2.-contraseñas,-certificados-electrónicos-y-biometria..html",
       "dependencies": []
     },
     "Hubs de Unidades/U3/3.3. Protocolos de Autenticación. DSA y RSA. Firma Electrónica..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U3/3.3. Protocolos de Autenticación. DSA y RSA. Firma Electrónica..html",
+      "exportedPath": "hubs-de-unidades/u3/3.3.-protocolos-de-autenticación.-dsa-y-rsa.-firma-electrónica..html",
       "dependencies": []
     },
     "Hubs de Unidades/U3/3.4. Introducción a la Infraestructura de Clave Pública..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U3/3.4. Introducción a la Infraestructura de Clave Pública..html",
+      "exportedPath": "hubs-de-unidades/u3/3.4.-introducción-a-la-infraestructura-de-clave-pública..html",
       "dependencies": []
     },
     "Hubs de Unidades/U3/3.5. Modelos de Autorización. Control de Acceso.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U3/3.5. Modelos de Autorización. Control de Acceso.html",
+      "exportedPath": "hubs-de-unidades/u3/3.5.-modelos-de-autorización.-control-de-acceso.html",
       "dependencies": []
     },
     "Hubs de Unidades/U3/UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 349,
-      "exportedPath": "Hubs de Unidades/U3/UNIDAD 3 - IDENTIFICACIÓN, AUTENTICACIÓN Y AUTORIZACIÓN.html",
+      "exportedPath": "hubs-de-unidades/u3/unidad-3-identificación,-autenticación-y-autorización.html",
       "dependencies": []
     },
     "Hubs de Unidades/U4/4.1. Estructura de una Política de Seguridad de la Información (Modelo ISO 27000)..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 6441,
-      "exportedPath": "Hubs de Unidades/U4/4.1. Estructura de una Política de Seguridad de la Información (Modelo ISO 27000)..html",
-      "dependencies": []
+      "exportedPath": "hubs-de-unidades/u4/4.1.-estructura-de-una-política-de-seguridad-de-la-información-(modelo-iso-27000)..html",
+      "dependencies": [
+        "lib/media/pasted-image-20241028165637.png"
+      ]
     },
     "Hubs de Unidades/U4/4.2. Objetivos de Control. Categorías de Controles..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U4/4.2. Objetivos de Control. Categorías de Controles..html",
+      "exportedPath": "hubs-de-unidades/u4/4.2.-objetivos-de-control.-categorías-de-controles..html",
       "dependencies": []
     },
     "Hubs de Unidades/U4/4.3. Aspectos Organizaciones SI..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U4/4.3. Aspectos Organizaciones SI..html",
+      "exportedPath": "hubs-de-unidades/u4/4.3.-aspectos-organizaciones-si..html",
       "dependencies": []
     },
     "Hubs de Unidades/U4/4.4. Seguridad Física y del Entorno..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U4/4.4. Seguridad Física y del Entorno..html",
+      "exportedPath": "hubs-de-unidades/u4/4.4.-seguridad-física-y-del-entorno..html",
       "dependencies": []
     },
     "Hubs de Unidades/U4/4.5. Autenticación, Autorización y Control de Accesos..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U4/4.5. Autenticación, Autorización y Control de Accesos..html",
+      "exportedPath": "hubs-de-unidades/u4/4.5.-autenticación,-autorización-y-control-de-accesos..html",
       "dependencies": []
     },
     "Hubs de Unidades/U4/4.6. Seguridad de las Operaciones y Comunicaciones..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U4/4.6. Seguridad de las Operaciones y Comunicaciones..html",
+      "exportedPath": "hubs-de-unidades/u4/4.6.-seguridad-de-las-operaciones-y-comunicaciones..html",
       "dependencies": []
     },
     "Hubs de Unidades/U4/UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 403,
-      "exportedPath": "Hubs de Unidades/U4/UNIDAD 4 - POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN.html",
+      "exportedPath": "hubs-de-unidades/u4/unidad-4-política-de-seguridad-de-la-información.html",
       "dependencies": []
     },
     "Hubs de Unidades/U5/5.1. Introducción a la disciplina forense Informática. Proceso de Gestión de incidentes.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U5/5.1. Introducción a la disciplina forense Informática. Proceso de Gestión de incidentes.html",
+      "exportedPath": "hubs-de-unidades/u5/5.1.-introducción-a-la-disciplina-forense-informática.-proceso-de-gestión-de-incidentes.html",
       "dependencies": []
     },
     "Hubs de Unidades/U5/5.2. Evidencia digital. Identificación. Metodología de Recolección y Manipulación..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U5/5.2. Evidencia digital. Identificación. Metodología de Recolección y Manipulación..html",
+      "exportedPath": "hubs-de-unidades/u5/5.2.-evidencia-digital.-identificación.-metodología-de-recolección-y-manipulación..html",
       "dependencies": []
     },
     "Hubs de Unidades/U5/5.3. Análisis de la evidencia digital e investigación. Análisis en Línea y fuera de Línea.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U5/5.3. Análisis de la evidencia digital e investigación. Análisis en Línea y fuera de Línea.html",
+      "exportedPath": "hubs-de-unidades/u5/5.3.-análisis-de-la-evidencia-digital-e-investigación.-análisis-en-línea-y-fuera-de-línea.html",
       "dependencies": []
     },
     "Hubs de Unidades/U5/5.4. Presentación e informe de resultados en diferentes ámbitos..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U5/5.4. Presentación e informe de resultados en diferentes ámbitos..html",
+      "exportedPath": "hubs-de-unidades/u5/5.4.-presentación-e-informe-de-resultados-en-diferentes-ámbitos..html",
       "dependencies": []
     },
     "Hubs de Unidades/U5/UNIDAD 5 - ANÁLISIS FORENSE.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 393,
-      "exportedPath": "Hubs de Unidades/U5/UNIDAD 5 - ANÁLISIS FORENSE.html",
+      "exportedPath": "hubs-de-unidades/u5/unidad-5-análisis-forense.html",
       "dependencies": []
     },
     "Hubs de Unidades/U6/6.1. Definición de Auditoria Informática. Tipos de Auditoría y áreas de aplicación..md": {
-      "modifiedTime": 1730148446278,
-      "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U6/6.1. Definición de Auditoria Informática. Tipos de Auditoría y áreas de aplicación..html",
+      "modifiedTime": 1730762403942,
+      "sourceSize": 5440,
+      "exportedPath": "hubs-de-unidades/u6/6.1.-definición-de-auditoria-informática.-tipos-de-auditoría-y-áreas-de-aplicación..html",
       "dependencies": []
     },
     "Hubs de Unidades/U6/6.2. Proceso de Auditoría. Planeamiento – Ejecución – Informe – Seguimiento. Alcance de la Auditoría..md": {
-      "modifiedTime": 1730148446278,
-      "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U6/6.2. Proceso de Auditoría. Planeamiento – Ejecución – Informe – Seguimiento. Alcance de la Auditoría..html",
+      "modifiedTime": 1730762403942,
+      "sourceSize": 1491,
+      "exportedPath": "hubs-de-unidades/u6/6.2.-proceso-de-auditoría.-planeamiento-–-ejecución-–-informe-–-seguimiento.-alcance-de-la-auditoría..html",
       "dependencies": []
     },
     "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..md": {
-      "modifiedTime": 1730148446278,
-      "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U6/6.3. Metodologías de trabajo y Técnicas de Auditoría..html",
+      "modifiedTime": 1730762403942,
+      "sourceSize": 5012,
+      "exportedPath": "hubs-de-unidades/u6/6.3.-metodologías-de-trabajo-y-técnicas-de-auditoría..html",
       "dependencies": []
     },
     "Hubs de Unidades/U6/6.4. Controles Auditoría Informática - Definición, funciones y tipos de controles. Programa de Trabajo..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U6/6.4. Controles Auditoría Informática - Definición, funciones y tipos de controles. Programa de Trabajo..html",
+      "exportedPath": "hubs-de-unidades/u6/6.4.-controles-auditoría-informática-definición,-funciones-y-tipos-de-controles.-programa-de-trabajo..html",
       "dependencies": []
     },
     "Hubs de Unidades/U6/6.5. Elaboración y comunicación de Observaciones y Recomendaciones. El Informe de Auditoría..md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 0,
-      "exportedPath": "Hubs de Unidades/U6/6.5. Elaboración y comunicación de Observaciones y Recomendaciones. El Informe de Auditoría..html",
+      "exportedPath": "hubs-de-unidades/u6/6.5.-elaboración-y-comunicación-de-observaciones-y-recomendaciones.-el-informe-de-auditoría..html",
       "dependencies": []
     },
     "Hubs de Unidades/U6/UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA.md": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 524,
-      "exportedPath": "Hubs de Unidades/U6/UNIDAD 6 - AUDITORÍA DE SEGURIDAD INFORMÁTICA.html",
+      "exportedPath": "hubs-de-unidades/u6/unidad-6-auditoría-de-seguridad-informática.html",
       "dependencies": []
     },
     "Images/Pasted image 20241026223347.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 24166,
-      "exportedPath": "Images/Pasted image 20241026223347.png",
+      "exportedPath": "images/pasted-image-20241026223347.png",
       "dependencies": []
     },
     "Images/Pasted image 20241027180223.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 79439,
-      "exportedPath": "Images/Pasted image 20241027180223.png",
+      "exportedPath": "images/pasted-image-20241027180223.png",
       "dependencies": []
     },
     "Images/Pasted image 20241027181033.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 69385,
-      "exportedPath": "Images/Pasted image 20241027181033.png",
+      "exportedPath": "images/pasted-image-20241027181033.png",
       "dependencies": []
     },
     "Images/Pasted image 20241027182328.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 36441,
-      "exportedPath": "Images/Pasted image 20241027182328.png",
+      "exportedPath": "images/pasted-image-20241027182328.png",
       "dependencies": []
     },
     "Images/Pasted image 20241027193203.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 23047,
-      "exportedPath": "Images/Pasted image 20241027193203.png",
+      "exportedPath": "images/pasted-image-20241027193203.png",
       "dependencies": []
     },
     "Images/Pasted image 20241027193234.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 27591,
-      "exportedPath": "Images/Pasted image 20241027193234.png",
+      "exportedPath": "images/pasted-image-20241027193234.png",
       "dependencies": []
     },
     "Images/Pasted image 20241028163024.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 114853,
-      "exportedPath": "Images/Pasted image 20241028163024.png",
+      "exportedPath": "images/pasted-image-20241028163024.png",
       "dependencies": []
     },
     "Images/Pasted image 20241028165637.png": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 60270,
-      "exportedPath": "Images/Pasted image 20241028165637.png",
+      "exportedPath": "images/pasted-image-20241028165637.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241104193843.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 41399,
+      "exportedPath": "images/pasted-image-20241104193843.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241104193916.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 46163,
+      "exportedPath": "images/pasted-image-20241104193916.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241104194236.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 34989,
+      "exportedPath": "images/pasted-image-20241104194236.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241104194310.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 59610,
+      "exportedPath": "images/pasted-image-20241104194310.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241104195037.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 89907,
+      "exportedPath": "images/pasted-image-20241104195037.png",
+      "dependencies": []
+    },
+    "OWASP Top 10.md": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 4854,
+      "exportedPath": "owasp-top-10.html",
       "dependencies": []
     },
     "Seguridad Informática - EMPEZAR ACÁ!!!.md": {
-      "modifiedTime": 1730148446278,
-      "sourceSize": 661,
-      "exportedPath": "Seguridad Informática - EMPEZAR ACÁ!!!.html",
+      "modifiedTime": 1730762403942,
+      "sourceSize": 748,
+      "exportedPath": "seguridad-informática-empezar-acá!!!.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241104193843.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 41399,
+      "exportedPath": "lib/media/pasted-image-20241104193843.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241104193916.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 46163,
+      "exportedPath": "lib/media/pasted-image-20241104193916.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241104194236.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 34989,
+      "exportedPath": "lib/media/pasted-image-20241104194236.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241104194310.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 59610,
+      "exportedPath": "lib/media/pasted-image-20241104194310.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241104195037.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 89907,
+      "exportedPath": "lib/media/pasted-image-20241104195037.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241026223347.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 24166,
+      "exportedPath": "lib/media/pasted-image-20241026223347.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241027193203.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 23047,
+      "exportedPath": "lib/media/pasted-image-20241027193203.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241027193234.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 27591,
+      "exportedPath": "lib/media/pasted-image-20241027193234.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241028163024.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 114853,
+      "exportedPath": "lib/media/pasted-image-20241028163024.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241027180223.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 79439,
+      "exportedPath": "lib/media/pasted-image-20241027180223.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241027181033.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 69385,
+      "exportedPath": "lib/media/pasted-image-20241027181033.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241027182328.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 36441,
+      "exportedPath": "lib/media/pasted-image-20241027182328.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241028165637.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 60270,
+      "exportedPath": "lib/media/pasted-image-20241028165637.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1730148446278,
+      "modifiedTime": 1730762403942,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 1368,
-      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 34160,
-      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 34464,
-      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 19360,
-      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 20832,
-      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 19776,
-      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 5792,
-      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 5464,
-      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 3244,
-      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 5148,
-      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 40808,
-      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 9600,
-      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 9908,
-      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 21480,
-      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 22340,
-      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 12660,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 15944,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 14628,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 11852,
-      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 17604,
-      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 1136,
-      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1730148446278,
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1730762403942,
       "sourceSize": 1116,
-      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 28584,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 6845,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 131134,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1730762403942,
+      "sourceSize": 513,
+      "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     }
   }
